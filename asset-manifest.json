@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/JWcoinsite/static/js/main.bdf4d8f5.chunk.js",
-    "main.js.map": "/JWcoinsite/static/js/main.bdf4d8f5.chunk.js.map",
+    "main.js": "/JWcoinsite/static/js/main.cfd8898f.chunk.js",
+    "main.js.map": "/JWcoinsite/static/js/main.cfd8898f.chunk.js.map",
     "runtime-main.js": "/JWcoinsite/static/js/runtime-main.46cc6246.js",
     "runtime-main.js.map": "/JWcoinsite/static/js/runtime-main.46cc6246.js.map",
     "static/js/2.cbb6678f.chunk.js": "/JWcoinsite/static/js/2.cbb6678f.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.46cc6246.js",
     "static/js/2.cbb6678f.chunk.js",
-    "static/js/main.bdf4d8f5.chunk.js"
+    "static/js/main.cfd8898f.chunk.js"
   ]
 }
